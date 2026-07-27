@@ -251,7 +251,6 @@ Admin Authorization Required ✅
 
 The API has been tested using **Postman**.
 
-You can add screenshots of:
 
 - Login API
 - Create Student
